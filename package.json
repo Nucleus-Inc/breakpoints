@@ -32,5 +32,13 @@
   ],
   "dependencies": {
     "jquery": "^2.2.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/themekit/breakpoints.git"
+  },
+  "bugs": {
+    "url": "https://github.com/themekit/breakpoints/issues"
+  },
+  "homepage": "https://github.com/themekit/breakpoints#readme"
 }
