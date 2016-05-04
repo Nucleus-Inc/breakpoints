@@ -5,6 +5,11 @@ Define breakpoints for one or multiple targets on your page, and Breakpoints.js 
 [Breakpoints.js Demo](http://breakpoints.themekit.io)
 
 ## Usage
+### Installation
+```bash
+npm install breakpoints.js
+```
+
 ### Initialize
 ```js
 var breakpoints = new Breakpoints('body', {
